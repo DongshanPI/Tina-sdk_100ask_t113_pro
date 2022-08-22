@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/t113_mq_nand.mk
+    $(LOCAL_DIR)/t113_100ask_nand.mk
